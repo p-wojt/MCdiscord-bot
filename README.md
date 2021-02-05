@@ -1,4 +1,4 @@
-### MCdiscord-bot
+# MCdiscord-bot
 Prosty bot do discorda, dla serwer Minecraft Polska, pełniący podstawowe funkcjonalności.
 Napisany przy wykorzystaniu API JDA.
 
