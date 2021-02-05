@@ -3,7 +3,6 @@ Prosty bot do discorda, dla serwer Minecraft Polska, pełniący podstawowe funkc
 Napisany przy wykorzystaniu API JDA.
 
 ## Funkcjonalności
-- możliwość ustawienia kanału powitalnego na którym będzie możliwość 
-powitania nowych członków, customowymi wiadomościami,
+- możliwość ustawienia kanału powitalnego na którym bot powita nowych członków,
 - blokowanie wiadomości,
 - nadanie immunitetu blokowania wiadomości wybranym osobom.
