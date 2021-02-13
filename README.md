@@ -1,8 +1,8 @@
 # MCdiscord-bot
-Prosty bot do discorda, dla serwer Minecraft Polska, pełniący podstawowe funkcjonalności.
-Napisany przy wykorzystaniu API JDA.
+Discord bot for server called "Minecraft Polska" with basic functionalities.
+Created by using API JDA.
 
-## Funkcjonalności
-- możliwość ustawienia kanału powitalnego na którym bot powita nowych członków,
-- blokowanie wiadomości,
-- nadanie immunitetu blokowania wiadomości wybranym osobom.
+## Functionalities
+- ability to set a welcome channel where bot will send "welcome messages",
+- blocking messages which you can define in code example "donuts",
+- granting immunity to blocking immunes by adding people IDs to list.
